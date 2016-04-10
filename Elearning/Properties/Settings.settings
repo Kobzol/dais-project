@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Elearning.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dbsys.cs.vsb.cz\STUDENT</Value>
+    </Setting>
+    <Setting Name="DBLogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ber0134</Value>
+    </Setting>
+    <Setting Name="DBPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TdU4mELpSm</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
